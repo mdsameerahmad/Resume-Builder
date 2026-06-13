@@ -6,3 +6,6 @@ from .generated_resume import GeneratedResume
 from .ats_report import AtsReport
 from .uploaded_resume import UploadedResume
 from .resume_extraction import ResumeExtraction
+from .master_resume_profile import MasterResumeProfile
+from .resume_template import ResumeTemplate
+from .gap_analysis import GapAnalysis
