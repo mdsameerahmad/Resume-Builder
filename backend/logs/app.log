@@ -128,3 +128,12 @@
 2026-06-13 16:09:44 | INFO     | app.services.resume_extraction_service:extract_resume:41 - Starting extraction for resume_id: 289e022f-752d-44d9-ad9d-b5a1ad5f2c85
 2026-06-13 16:09:45 | ERROR    | app.api.v1.resume.extract:extract_resume:25 - Extraction error for 289e022f-752d-44d9-ad9d-b5a1ad5f2c85: Resume file not yet uploaded to storage
 2026-06-13 16:10:12 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 16:10:16 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 16:10:16 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 16:10:18 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 16:10:19 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 16:10:39 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-13 16:10:42 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 5dfedee3-77ad-4c59-8d05-a28e163a6086 for user 00000000-0000-0000-0000-000000000000
+2026-06-13 16:12:24 | INFO     | app.services.resume_extraction_service:extract_resume:41 - Starting extraction for resume_id: 5dfedee3-77ad-4c59-8d05-a28e163a6086
+2026-06-13 16:12:26 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-13 16:12:29 | INFO     | app.services.resume_extraction_service:extract_resume:114 - Successfully completed extraction for resume_id: 5dfedee3-77ad-4c59-8d05-a28e163a6086
