@@ -8,6 +8,8 @@ from .resume.parse import router as parse_router
 from .template.template import router as template_router
 from .jd.jd import router as jd_router
 from .gap.gap import router as gap_router
+from .optimizer.optimizer import router as optimizer_router
+from .pdf.pdf import router as pdf_router
 
 api_router = APIRouter()
 api_router.include_router(health_router, prefix="/health", tags=["Health"])
@@ -18,3 +20,5 @@ api_router.include_router(parse_router, prefix="/resume", tags=["Parsing"])
 api_router.include_router(template_router, prefix="/template", tags=["Template"])
 api_router.include_router(jd_router, prefix="/jd", tags=["Job Description"])
 api_router.include_router(gap_router, prefix="/gap", tags=["Gap Analysis"])
+api_router.include_router(optimizer_router, prefix="/optimizer", tags=["Resume Optimization"])
+api_router.include_router(pdf_router, prefix="/pdf", tags=["PDF Generation"])

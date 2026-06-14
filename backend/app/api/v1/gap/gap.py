@@ -40,12 +40,20 @@ async def analyze_gap(
             missing_skills=report.missing_skills or [],
             matched_keywords=report.matched_keywords or [],
             missing_keywords=report.missing_keywords or [],
-            relevant_projects=report.relevant_projects or [],
+            project_rankings=report.project_rankings or [],
             relevant_experience=report.relevant_experience or [],
             strengths=report.strengths or [],
             weaknesses=report.weaknesses or [],
             coverage_score=report.coverage_score,
             ats_score=report.ats_score,
+            score_breakdown={
+                "skills": report.skill_score,
+                "keywords": report.keyword_score,
+                "projects": report.project_score,
+                "experience": report.experience_score,
+                "education": report.education_score,
+                "certifications": report.certification_score
+            },
             optimization_recommendations=report.recommendations or []
         )
         
@@ -88,12 +96,20 @@ async def get_gap_report(
         missing_skills=report.missing_skills or [],
         matched_keywords=report.matched_keywords or [],
         missing_keywords=report.missing_keywords or [],
-        relevant_projects=report.relevant_projects or [],
+        project_rankings=report.project_rankings or [],
         relevant_experience=report.relevant_experience or [],
         strengths=report.strengths or [],
         weaknesses=report.weaknesses or [],
         coverage_score=report.coverage_score,
         ats_score=report.ats_score,
+        score_breakdown={
+            "skills": report.skill_score,
+            "keywords": report.keyword_score,
+            "projects": report.project_score,
+            "experience": report.experience_score,
+            "education": report.education_score,
+            "certifications": report.certification_score
+        },
         optimization_recommendations=report.recommendations or []
     )
     

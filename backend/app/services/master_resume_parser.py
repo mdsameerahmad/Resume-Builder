@@ -8,7 +8,7 @@ from loguru import logger
 from app.models.resume_extraction import ResumeExtraction
 from app.models.master_resume_profile import MasterResumeProfile
 from app.services.gemini_service import GeminiService
-from app.services.json_validator import JsonValidator
+from app.services.json_validator import JsonValidator, InvalidAIJsonError
 from app.prompts.master_resume_prompt import MASTER_RESUME_PROMPT
 from app.schemas.master_resume import MasterResumeResponse, MasterResumeJSON
 
@@ -40,7 +40,19 @@ class MasterResumeParser:
         ai_response = await self.gemini_service.generate_content(prompt)
         
         # 4. Clean and Validate JSON
-        master_json_dict = self.validator.clean_json_response(ai_response)
+        try:
+            master_json_dict = self.validator.clean_json_response(ai_response)
+        except InvalidAIJsonError:
+            logger.warning("Retrying Master Resume parsing after malformed AI JSON")
+            correction_prompt = f"""
+Return a corrected version of the JSON below.
+Output only one valid JSON object with double-quoted keys and strings.
+Do not add markdown or commentary.
+
+{ai_response}
+"""
+            corrected_response = await self.gemini_service.generate_content(correction_prompt)
+            master_json_dict = self.validator.clean_json_response(corrected_response)
         if not self.validator.validate_master_resume(master_json_dict):
             raise Exception("AI returned JSON that does not match the required Master Resume schema")
 

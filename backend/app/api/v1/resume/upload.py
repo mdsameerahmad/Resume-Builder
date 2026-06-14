@@ -1,17 +1,35 @@
 from typing import List
 from fastapi import APIRouter, Depends, UploadFile, File, HTTPException, status
 from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy import select
 from uuid import UUID
 from app.database.session import get_db
 from app.services.resume_upload_service import ResumeUploadService
 from app.services.storage.supabase_storage import SupabaseStorage
 from app.schemas.resume_upload import ResumeUploadResponse, ResumeMetadata
+from app.models.user import User
+from loguru import logger
 import uuid
 
 router = APIRouter()
 
-# Mock user ID for Phase 3 (since auth is not implemented)
-MOCK_USER_ID = UUID("00000000-0000-0000-0000-000000000000")
+async def ensure_mock_user(db: AsyncSession) -> UUID:
+    """Ensures a mock user exists for development purposes."""
+    mock_id = UUID("00000000-0000-0000-0000-000000000000")
+    result = await db.execute(select(User).where(User.id == mock_id))
+    user = result.scalars().first()
+    if not user:
+        user = User(
+            id=mock_id,
+            email="mock@example.com",
+            password_hash="mock",
+            is_active=True
+        )
+        db.add(user)
+        await db.commit()
+        await db.refresh(user)
+        logger.info(f"Created mock user: {mock_id}")
+    return mock_id
 
 def get_upload_service(db: AsyncSession = Depends(get_db)):
     storage_service = SupabaseStorage()
@@ -20,23 +38,25 @@ def get_upload_service(db: AsyncSession = Depends(get_db)):
 @router.post("/upload", response_model=ResumeUploadResponse, status_code=status.HTTP_201_CREATED)
 async def upload_resume(
     file: UploadFile = File(...),
+    db: AsyncSession = Depends(get_db),
     service: ResumeUploadService = Depends(get_upload_service)
 ):
     """
     Upload a resume file (PDF or DOCX).
     """
-    # In a real app, user_id would come from the auth token
-    # For now, we'll use a mock user ID or ensure a mock user exists
-    return await service.upload_resume(MOCK_USER_ID, file)
+    user_id = await ensure_mock_user(db)
+    return await service.upload_resume(user_id, file)
 
 @router.get("/list", response_model=List[ResumeMetadata])
 async def list_resumes(
+    db: AsyncSession = Depends(get_db),
     service: ResumeUploadService = Depends(get_upload_service)
 ):
     """
     List all uploaded resumes for the current user.
     """
-    return await service.get_resumes(MOCK_USER_ID)
+    user_id = await ensure_mock_user(db)
+    return await service.get_resumes(user_id)
 
 @router.get("/{resume_id}", response_model=ResumeMetadata)
 async def get_resume(

@@ -1,7 +1,11 @@
 import json
+import re
 from jsonschema import validate, ValidationError
 from typing import Any, Dict
 from loguru import logger
+
+class InvalidAIJsonError(ValueError):
+    pass
 
 class JsonValidator:
     def __init__(self):
@@ -40,17 +44,34 @@ class JsonValidator:
         Ensures all fields are strings or lists, not null.
         """
         cleaned = response_text.strip()
-        if cleaned.startswith("```json"):
-            cleaned = cleaned.replace("```json", "", 1)
-        if cleaned.endswith("```"):
-            cleaned = cleaned.rsplit("```", 1)[0]
+        cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned, flags=re.IGNORECASE)
+        cleaned = re.sub(r"\s*```$", "", cleaned)
+
+        # Ignore any prose around the JSON object.
+        start = cleaned.find("{")
+        end = cleaned.rfind("}")
+        if start != -1 and end > start:
+            cleaned = cleaned[start:end + 1]
         
         try:
             data = json.loads(cleaned.strip())
             return self._ensure_no_nulls(data)
         except json.JSONDecodeError as e:
-            logger.error(f"Failed to decode JSON from Gemini: {e}")
-            raise Exception("Invalid JSON response from AI")
+            # Gemini occasionally emits JavaScript-like JSON despite requesting
+            # application/json. Repair the common safe cases before retrying AI.
+            repaired = re.sub(r",\s*([}\]])", r"\1", cleaned)
+            repaired = re.sub(
+                r'([{,]\s*)([A-Za-z_][A-Za-z0-9_]*)(\s*:)',
+                r'\1"\2"\3',
+                repaired,
+            )
+            try:
+                data = json.loads(repaired)
+                logger.warning("Repaired malformed JSON returned by AI")
+                return self._ensure_no_nulls(data)
+            except json.JSONDecodeError:
+                logger.error(f"Failed to decode JSON from Gemini: {e}")
+                raise InvalidAIJsonError("Invalid JSON response from AI") from e
 
     def _ensure_no_nulls(self, data: Any) -> Any:
         """

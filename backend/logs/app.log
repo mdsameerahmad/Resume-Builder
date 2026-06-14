@@ -565,3 +565,1433 @@ message: "API key not valid. Please pass a valid API key."
 2026-06-13 18:00:37 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
 2026-06-13 18:00:40 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
 2026-06-13 18:07:23 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:15:19 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:15:36 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:15:40 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:16:19 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:17:30 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:17:33 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:17:33 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:18:16 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:18:22 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:18:23 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:18:37 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:18:40 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:18:42 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:18:57 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:18:59 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:19:00 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:19:16 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:19:19 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:19:19 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:19:34 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:19:36 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:19:40 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:19:56 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:19:58 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:22:00 | ERROR    | app.middleware.exceptions:global_exception_handler:6 - Global exception caught: name 'SkillMatcher' is not defined
+2026-06-13 18:22:20 | ERROR    | app.middleware.exceptions:global_exception_handler:6 - Global exception caught: name 'SkillMatcher' is not defined
+2026-06-13 18:22:24 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:22:30 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:22:34 | ERROR    | app.middleware.exceptions:global_exception_handler:6 - Global exception caught: name 'SkillMatcher' is not defined
+2026-06-13 18:23:17 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:23:17 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:23:33 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:23:36 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:23:40 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:23:42 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:23:53 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:23:54 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:24:06 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:24:09 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:24:09 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:24:14 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:24:17 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:24:21 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:24:24 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:24:43 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:24:55 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:24:59 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:25:01 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:25:04 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:31:39 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:55:31 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:56:03 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:56:05 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:56:14 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:57:01 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:57:04 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:57:04 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:58:06 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:58:09 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:58:11 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:58:35 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:58:37 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 18:58:44 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 18:58:57 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 18:59:00 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:00:00 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:00:03 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:00:29 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 46457d9d-1c8f-48c9-a7ee-a1a68604dcd2, job_id: 88eda2f4-6c08-4168-9780-1b5c17e6f41e
+2026-06-13 19:00:29 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:00:53 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-13 19:00:53 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-13 19:00:54 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 2c6612b4-d8f7-4608-90a9-9f8cbd5c735f
+2026-06-13 19:02:40 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:02:40 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:02:53 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:02:55 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:02:57 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:03:00 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:03:26 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:03:27 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:03:37 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:03:39 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:03:42 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:03:45 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:06:39 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: java_backend_resume_v2 (1).pdf
+2026-06-13 19:06:39 | WARNING  | app.services.resume_upload_service:validate_file:49 - Rejected file with MIME type: text/html
+2026-06-13 19:07:01 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Oracle_Resume.pdf
+2026-06-13 19:07:03 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 0cf0524f-2266-4481-88e0-7ad27785d8ab for user 00000000-0000-0000-0000-000000000000
+2026-06-13 19:07:21 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-13 19:07:21 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:07:35 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: 5863f85a-9306-47ba-8f88-3c5368367981
+2026-06-13 19:09:25 | ERROR    | app.services.gap_analysis_service:analyze_gap:52 - Master Resume Profile for resume_id 0cf0524f-2266-4481-88e0-7ad27785d8ab or JD 5863f85a-9306-47ba-8f88-3c5368367981 not found
+2026-06-13 19:09:45 | INFO     | app.services.resume_extraction_service:extract_resume:41 - Starting extraction for resume_id: 0cf0524f-2266-4481-88e0-7ad27785d8ab
+2026-06-13 19:09:48 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-13 19:09:49 | INFO     | app.services.resume_extraction_service:extract_resume:114 - Successfully completed extraction for resume_id: 0cf0524f-2266-4481-88e0-7ad27785d8ab
+2026-06-13 19:10:10 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: 0cf0524f-2266-4481-88e0-7ad27785d8ab
+2026-06-13 19:10:10 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:10:38 | INFO     | app.services.master_resume_parser:parse_to_master:72 - Successfully created Master Resume Profile for resume_id: 0cf0524f-2266-4481-88e0-7ad27785d8ab
+2026-06-13 19:14:10 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 0cf0524f-2266-4481-88e0-7ad27785d8ab, job_id: 5863f85a-9306-47ba-8f88-3c5368367981
+2026-06-13 19:14:11 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:14:38 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-13 19:14:38 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-13 19:14:38 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 8736830f-5da7-4625-9ad2-3682e84aac60
+2026-06-13 19:18:35 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:19:06 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:20:13 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:20:15 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:20:20 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:20:49 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:20:51 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:20:51 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:21:21 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:21:23 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:21:24 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:21:47 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:21:49 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:21:50 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:22:04 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:22:06 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:22:43 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:22:45 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:22:58 | ERROR    | app.api.v1.gap.gap:analyze_gap:71 - Gap Analysis error: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column "semantic_matches" of relation "gap_analysis_reports" does not exist
+[SQL: INSERT INTO gap_analysis_reports (id, user_id, resume_id, job_id, matched_skills, missing_skills, matched_keywords, missing_keywords, relevant_experience, strengths, weaknesses, coverage_score, ats_score, skill_score, keyword_score, project_score, experience_score, education_score, certification_score, project_rankings, semantic_matches, matching_confidence, recommendations, updated_at) VALUES ($1::UUID, $2::UUID, $3::UUID, $4::UUID, $5::JSONB, $6::JSONB, $7::JSONB, $8::JSONB, $9::JSONB, $10::JSONB, $11::JSONB, $12::FLOAT, $13::FLOAT, $14::FLOAT, $15::FLOAT, $16::FLOAT, $17::FLOAT, $18::FLOAT, $19::FLOAT, $20::JSONB, $21::JSONB, $22::FLOAT, $23::JSONB, $24::TIMESTAMP WITH TIME ZONE) RETURNING gap_analysis_reports.created_at]
+[parameters: (UUID('dd6deeae-5cfd-4fdf-af0b-0bd7a2cb1497'), UUID('00000000-0000-0000-0000-000000000000'), UUID('0cf0524f-2266-4481-88e0-7ad27785d8ab'), UUID('5863f85a-9306-47ba-8f88-3c5368367981'), '["APIs", "DevOps", "HTTP", "REST API"]', '["Test Automation"]', '["Python", "Node.js", "FastAPI", "Postman", "PostgreSQL", "Database Management"]', '["Work from home", "Automation Solutions", "Automated Test Scripts", "Selenium", "DevOps Principles", "Deployment Automation", "REST API Services", "MERN", "API Testing", "Technical Challenges", "Critical Thinking", "Decision Making", "Problem Solving"]', '[]', '["Found 4 relevant projects."]', '["Missing key skills: Test Automation"]', 70.36, 51.32, 80.0, 31.58, 27.14, 0.0, 100.0, 100.0, '[{"title": "AI-Driven Decision Intelligence Platform", "relevance_score": 27.14, "technologies": ["python", "fastapi", "flask", "react.js", "langchai ... (614 characters truncated) ... "java", "spring boot", "react.js", "mongodb", "redis", "docker", "jwt", "spring security", "jpa", "hibernate", "aws ec2", "aws amplify"], "rank": 4}]', '[{"jd_term": "APIs", "resume_term": "APIs", "confidence": 95}, {"jd_term": "DevOps", "resume_term": "Docker", "confidence": 90}, {"jd_term": "HTTP", "resume_term": "HTTP", "confidence": 95}, {"jd_term": "REST API", "resume_term": "REST API", "confidence": 95}]', 93.75, '["Consider highlighting experience with Test Automation if you have it.", "Incorporate missing ATS keywords like \'Work from home\' and \'Automation  ... (28 characters truncated) ... our experience descriptions.", "Prioritize the \'AI-Driven Decision Intelligence Platform\' project in your resume as it has the highest relevance."]', None)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-13 19:23:11 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-13 19:23:11 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:23:21 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: 899c0ca7-3277-4257-93e3-34927910d9c4
+2026-06-13 19:24:11 | ERROR    | app.api.v1.gap.gap:analyze_gap:71 - Gap Analysis error: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column "semantic_matches" of relation "gap_analysis_reports" does not exist
+[SQL: INSERT INTO gap_analysis_reports (id, user_id, resume_id, job_id, matched_skills, missing_skills, matched_keywords, missing_keywords, relevant_experience, strengths, weaknesses, coverage_score, ats_score, skill_score, keyword_score, project_score, experience_score, education_score, certification_score, project_rankings, semantic_matches, matching_confidence, recommendations, updated_at) VALUES ($1::UUID, $2::UUID, $3::UUID, $4::UUID, $5::JSONB, $6::JSONB, $7::JSONB, $8::JSONB, $9::JSONB, $10::JSONB, $11::JSONB, $12::FLOAT, $13::FLOAT, $14::FLOAT, $15::FLOAT, $16::FLOAT, $17::FLOAT, $18::FLOAT, $19::FLOAT, $20::JSONB, $21::JSONB, $22::FLOAT, $23::JSONB, $24::TIMESTAMP WITH TIME ZONE) RETURNING gap_analysis_reports.created_at]
+[parameters: (UUID('75141ad7-2a36-4161-8db8-f413da939c89'), UUID('00000000-0000-0000-0000-000000000000'), UUID('0cf0524f-2266-4481-88e0-7ad27785d8ab'), UUID('5863f85a-9306-47ba-8f88-3c5368367981'), '["APIs", "DevOps", "HTTP", "REST API"]', '["Test Automation"]', '["Python", "Node.js", "FastAPI", "Postman", "PostgreSQL", "Database Management"]', '["Work from home", "Automation Solutions", "Automated Test Scripts", "Selenium", "DevOps Principles", "Deployment Automation", "REST API Services", "MERN", "API Testing", "Technical Challenges", "Critical Thinking", "Decision Making", "Problem Solving"]', '[]', '["Found 4 relevant projects."]', '["Missing key skills: Test Automation"]', 70.36, 51.32, 80.0, 31.58, 27.14, 0.0, 100.0, 100.0, '[{"title": "AI-Driven Decision Intelligence Platform", "relevance_score": 27.14, "technologies": ["python", "fastapi", "flask", "react.js", "langchai ... (614 characters truncated) ... "java", "spring boot", "react.js", "mongodb", "redis", "docker", "jwt", "spring security", "jpa", "hibernate", "aws ec2", "aws amplify"], "rank": 4}]', '[{"jd_term": "APIs", "resume_term": "APIs", "confidence": 95}, {"jd_term": "DevOps", "resume_term": "Docker", "confidence": 90}, {"jd_term": "HTTP", "resume_term": "HTTP", "confidence": 95}, {"jd_term": "REST API", "resume_term": "REST API", "confidence": 95}]', 93.75, '["Consider highlighting experience with Test Automation if you have it.", "Incorporate missing ATS keywords like \'Work from home\' and \'Automation  ... (28 characters truncated) ... our experience descriptions.", "Prioritize the \'AI-Driven Decision Intelligence Platform\' project in your resume as it has the highest relevance."]', None)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-13 19:24:35 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:24:35 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:24:49 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:24:51 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:24:53 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:24:56 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:25:12 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:25:21 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:25:23 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:25:26 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:25:28 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:25:56 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 0cf0524f-2266-4481-88e0-7ad27785d8ab, job_id: 5863f85a-9306-47ba-8f88-3c5368367981
+2026-06-13 19:25:57 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:26:17 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-13 19:26:17 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-13 19:26:18 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: b862122b-2489-4f34-ab72-16724d157574
+2026-06-13 19:28:45 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:29:16 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:29:40 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:29:42 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:30:02 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:30:20 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:30:22 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:30:22 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:30:29 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:30:31 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:30:31 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:30:41 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:30:43 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:30:55 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:31:02 | INFO     | main:startup_event:38 - Starting up ATS Resume Agent...
+2026-06-13 19:31:04 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:31:07 | INFO     | main:shutdown_event:43 - Shutting down ATS Resume Agent...
+2026-06-13 19:34:07 | INFO     | main:startup_event:45 - Starting up ATS Resume Agent...
+2026-06-13 19:34:11 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:35:33 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_SymphonyAI_Resume.pdf
+2026-06-13 19:35:34 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume aac5917a-8ffa-4e70-a02d-4004913a92bd for user 00000000-0000-0000-0000-000000000000
+2026-06-13 19:38:25 | INFO     | main:shutdown_event:50 - Shutting down ATS Resume Agent...
+2026-06-13 19:38:44 | INFO     | main:startup_event:45 - Starting up ATS Resume Agent...
+2026-06-13 19:38:47 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:38:49 | INFO     | main:shutdown_event:50 - Shutting down ATS Resume Agent...
+2026-06-13 19:38:59 | INFO     | main:startup_event:45 - Starting up ATS Resume Agent...
+2026-06-13 19:39:01 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:39:02 | INFO     | main:shutdown_event:50 - Shutting down ATS Resume Agent...
+2026-06-13 19:39:08 | INFO     | main:startup_event:45 - Starting up ATS Resume Agent...
+2026-06-13 19:39:10 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:39:13 | INFO     | main:startup_event:45 - Starting up ATS Resume Agent...
+2026-06-13 19:39:15 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:39:24 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_SymphonyAI_Resume.pdf
+2026-06-13 19:39:26 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume d31612a6-f587-4adc-b22f-895096c55d11 for user 00000000-0000-0000-0000-000000000000
+2026-06-13 19:39:48 | INFO     | app.services.resume_extraction_service:extract_resume:41 - Starting extraction for resume_id: d31612a6-f587-4adc-b22f-895096c55d11
+2026-06-13 19:39:50 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-13 19:39:51 | INFO     | app.services.resume_extraction_service:extract_resume:114 - Successfully completed extraction for resume_id: d31612a6-f587-4adc-b22f-895096c55d11
+2026-06-13 19:40:24 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: d31612a6-f587-4adc-b22f-895096c55d11
+2026-06-13 19:40:24 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:40:54 | INFO     | app.services.master_resume_parser:parse_to_master:72 - Successfully created Master Resume Profile for resume_id: d31612a6-f587-4adc-b22f-895096c55d11
+2026-06-13 19:41:10 | INFO     | app.services.layout_analyzer:analyze_sections:22 - Analyzing layout sections and hierarchy...
+2026-06-13 19:41:10 | INFO     | app.services.template_builder:build_template:18 - Building reusable HTML template...
+2026-06-13 19:42:44 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-13 19:42:44 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:42:55 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: fe215849-6485-4b93-b090-c8f2595ee638
+2026-06-13 19:44:23 | ERROR    | app.services.gap_analysis_service:analyze_gap:57 - Master Resume Profile for resume_id 3fa85f64-5717-4562-b3fc-2c963f66afa6 or JD fe215849-6485-4b93-b090-c8f2595ee638 not found
+2026-06-13 19:45:23 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: d31612a6-f587-4adc-b22f-895096c55d11, job_id: fe215849-6485-4b93-b090-c8f2595ee638
+2026-06-13 19:45:23 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:45:26 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 32.415738401s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 32
+}
+]
+2026-06-13 19:45:30 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:45:31 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 27.831686797s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2026-06-13 19:45:35 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:45:35 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 23.33990245s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2026-06-13 19:45:35 | ERROR    | app.api.v1.optimizer.optimizer:generate_optimized_resume:47 - Resume Optimization API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 23.33990245s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2026-06-13 19:47:02 | INFO     | main:shutdown_event:50 - Shutting down ATS Resume Agent...
+2026-06-13 19:47:17 | INFO     | main:startup_event:45 - Starting up ATS Resume Agent...
+2026-06-13 19:47:20 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:47:27 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: d31612a6-f587-4adc-b22f-895096c55d11, job_id: fe215849-6485-4b93-b090-c8f2595ee638
+2026-06-13 19:47:27 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:47:29 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 30.065334878s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 30
+}
+]
+2026-06-13 19:47:33 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:47:33 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 25.380471144s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2026-06-13 19:47:37 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:47:38 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 20.805942314s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2026-06-13 19:47:38 | ERROR    | app.api.v1.optimizer.optimizer:generate_optimized_resume:47 - Resume Optimization API error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 20.805942314s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2026-06-13 19:51:45 | INFO     | main:shutdown_event:50 - Shutting down ATS Resume Agent...
+2026-06-13 19:51:58 | INFO     | main:startup_event:45 - Starting up ATS Resume Agent...
+2026-06-13 19:52:00 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:52:04 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: d31612a6-f587-4adc-b22f-895096c55d11, job_id: fe215849-6485-4b93-b090-c8f2595ee638
+2026-06-13 19:52:05 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-13 19:52:38 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-13 19:52:38 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-13 19:52:39 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 0ca4cfce-c394-4947-94f1-2bcdc5b3f546
+2026-06-13 19:53:33 | ERROR    | app.services.rendering.pdf_generator:generate_pdf:42 - Error generating PDF: 
+2026-06-13 19:53:33 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:86 - PDF Generation error: 500: Failed to generate PDF
+2026-06-13 19:56:58 | INFO     | main:shutdown_event:50 - Shutting down ATS Resume Agent...
+2026-06-13 19:56:59 | INFO     | main:shutdown_event:50 - Shutting down ATS Resume Agent...
+2026-06-13 19:57:06 | INFO     | main:startup_event:52 - Starting up ATS Resume Agent...
+2026-06-13 19:57:11 | INFO     | main:startup_event:52 - Starting up ATS Resume Agent...
+2026-06-13 19:57:15 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:57:15 | INFO     | main:shutdown_event:57 - Shutting down ATS Resume Agent...
+2026-06-13 19:57:22 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:57:22 | INFO     | main:shutdown_event:57 - Shutting down ATS Resume Agent...
+2026-06-13 19:57:27 | INFO     | main:startup_event:52 - Starting up ATS Resume Agent...
+2026-06-13 19:57:35 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:57:35 | INFO     | main:startup_event:52 - Starting up ATS Resume Agent...
+2026-06-13 19:57:38 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:57:55 | INFO     | main:shutdown_event:57 - Shutting down ATS Resume Agent...
+2026-06-13 19:58:02 | INFO     | main:startup_event:52 - Starting up ATS Resume Agent...
+2026-06-13 19:58:05 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:58:05 | INFO     | main:startup_event:52 - Starting up ATS Resume Agent...
+2026-06-13 19:58:08 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:58:18 | ERROR    | app.services.rendering.pdf_generator:generate_pdf:42 - Error generating PDF: 
+2026-06-13 19:58:18 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:86 - PDF Generation error: 500: Failed to generate PDF
+2026-06-13 19:58:51 | INFO     | main:shutdown_event:57 - Shutting down ATS Resume Agent...
+2026-06-13 19:58:51 | INFO     | main:shutdown_event:57 - Shutting down ATS Resume Agent...
+2026-06-13 19:58:56 | INFO     | main:startup_event:54 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 19:58:56 | WARNING  | main:startup_event:56 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 19:58:56 | INFO     | main:startup_event:58 - Starting up ATS Resume Agent...
+2026-06-13 19:58:58 | INFO     | main:startup_event:54 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 19:58:58 | WARNING  | main:startup_event:56 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 19:58:58 | INFO     | main:startup_event:58 - Starting up ATS Resume Agent...
+2026-06-13 19:58:58 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:59:00 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:59:07 | INFO     | main:shutdown_event:63 - Shutting down ATS Resume Agent...
+2026-06-13 19:59:07 | INFO     | main:shutdown_event:63 - Shutting down ATS Resume Agent...
+2026-06-13 19:59:14 | INFO     | main:startup_event:54 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 19:59:14 | WARNING  | main:startup_event:56 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 19:59:14 | INFO     | main:startup_event:58 - Starting up ATS Resume Agent...
+2026-06-13 19:59:17 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:59:18 | INFO     | main:shutdown_event:63 - Shutting down ATS Resume Agent...
+2026-06-13 19:59:30 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 19:59:30 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 19:59:30 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 19:59:33 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:59:33 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 19:59:40 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 19:59:40 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 19:59:40 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 19:59:43 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:59:43 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 19:59:44 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 19:59:44 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 19:59:44 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 19:59:47 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:59:51 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 19:59:51 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 19:59:51 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 19:59:54 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 19:59:55 | INFO     | app.services.rendering.pdf_generator:generate_pdf:17 - PDF Generator using loop: _WindowsSelectorEventLoop
+2026-06-13 19:59:55 | ERROR    | app.services.rendering.pdf_generator:generate_pdf:45 - Error generating PDF: 
+2026-06-13 19:59:55 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:86 - PDF Generation error: 500: Failed to generate PDF
+2026-06-13 20:00:55 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:00:55 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:00:59 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:00:59 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:00:59 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:01:01 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:01:01 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:01:01 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:01:02 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:01:04 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:01:07 | INFO     | app.services.rendering.pdf_generator:generate_pdf:26 - Detected SelectorEventLoop on Windows. Offloading PDF generation to a ProactorEventLoop thread.
+2026-06-13 20:01:15 | INFO     | app.services.rendering.pdf_generator:_generate_pdf_async:78 - PDF generated successfully at: static/resumes\0ca4cfce-c394-4947-94f1-2bcdc5b3f546.pdf
+2026-06-13 20:11:01 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:11:22 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:11:32 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:11:32 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:11:32 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:11:37 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:11:37 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:11:45 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:11:45 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:11:45 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:11:47 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:12:09 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:12:19 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:12:19 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:12:19 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:12:21 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:12:28 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:12:44 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:12:44 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:12:44 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:12:49 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:12:49 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:12:58 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:12:58 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:12:58 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:13:01 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:13:07 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:13:13 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:13:13 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:13:13 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:13:16 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:13:17 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:13:23 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:13:23 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:13:23 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:13:26 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:13:26 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:13:31 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:13:31 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:13:31 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:13:34 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:13:34 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:13:40 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:13:40 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:13:40 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:13:42 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:13:44 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:13:51 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:13:51 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:13:51 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:13:53 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:14:01 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:14:07 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:14:07 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:14:07 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:14:09 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:14:26 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:14:31 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:14:31 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:14:31 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:14:34 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:14:34 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:14:41 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:14:41 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:14:41 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:14:43 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:23:26 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:23:26 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:23:26 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:23:29 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:25:18 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_FullStack_Resume (1).pdf
+2026-06-13 20:25:20 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 2a854159-2b90-4afc-bbb7-7a361752c5c3 for user 00000000-0000-0000-0000-000000000000
+2026-06-13 20:31:55 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:31:55 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:32:16 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:32:16 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:32:16 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:32:19 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:32:24 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:32:24 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:32:24 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:32:26 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:38:22 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_FullStack_Resume (1).pdf
+2026-06-13 20:38:24 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 9bf8f977-d2aa-4fe6-9921-5263874bbe71 for user 00000000-0000-0000-0000-000000000000
+2026-06-13 20:40:19 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:40:19 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:40:43 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:40:43 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:40:43 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:40:46 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:40:54 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:40:54 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:40:54 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:40:57 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:41:36 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Oracle_Resume.pdf
+2026-06-13 20:41:38 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume d160005e-3835-4d52-add1-972d711c248f for user 00000000-0000-0000-0000-000000000000
+2026-06-13 20:42:51 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_FullStack_Resume (1).pdf
+2026-06-13 20:42:52 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 3ca4a685-2e3a-4828-8cea-93c185bc69ee for user 00000000-0000-0000-0000-000000000000
+2026-06-13 20:43:16 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_FullStack_Resume (1).pdf
+2026-06-13 20:43:17 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 3349cdba-f209-45b0-8fe2-14d92dfcc329 for user 00000000-0000-0000-0000-000000000000
+2026-06-13 20:43:37 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-13 20:43:39 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 9b8777d4-2575-4984-bed8-327828c486f3 for user 00000000-0000-0000-0000-000000000000
+2026-06-13 20:45:24 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-13 20:45:26 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume cf453ab5-5122-48e2-8a8d-c5d438bc2974 for user 00000000-0000-0000-0000-000000000000
+2026-06-13 20:45:26 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: cf453ab5-5122-48e2-8a8d-c5d438bc2974
+2026-06-13 20:45:31 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-13 20:45:31 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_cf453ab5-5122-48e2-8a8d-c5d438bc2974.pdf
+2026-06-13 20:45:32 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-13 20:45:32 | ERROR    | app.api.v1.resume.extract:extract_resume:25 - Extraction error for cf453ab5-5122-48e2-8a8d-c5d438bc2974: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column resume_templates.template_css does not exist
+[SQL: SELECT resume_templates.id, resume_templates.resume_id, resume_templates.user_id, resume_templates.template_html, resume_templates.template_css, resume_templates.layout_metadata, resume_templates.section_order, resume_templates.template_variables, resume_templates.hyperlinks, resume_templates.created_at, resume_templates.updated_at 
+FROM resume_templates 
+WHERE resume_templates.resume_id = $1::UUID]
+[parameters: (UUID('cf453ab5-5122-48e2-8a8d-c5d438bc2974'),)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-13 20:45:57 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-13 20:46:00 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume f0c4465a-de73-4442-8a46-79435b3e0e77 for user 00000000-0000-0000-0000-000000000000
+2026-06-13 20:46:00 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: f0c4465a-de73-4442-8a46-79435b3e0e77
+2026-06-13 20:46:02 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-13 20:46:02 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_f0c4465a-de73-4442-8a46-79435b3e0e77.pdf
+2026-06-13 20:46:02 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-13 20:46:03 | ERROR    | app.api.v1.resume.extract:extract_resume:25 - Extraction error for f0c4465a-de73-4442-8a46-79435b3e0e77: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column resume_templates.template_css does not exist
+[SQL: SELECT resume_templates.id, resume_templates.resume_id, resume_templates.user_id, resume_templates.template_html, resume_templates.template_css, resume_templates.layout_metadata, resume_templates.section_order, resume_templates.template_variables, resume_templates.hyperlinks, resume_templates.created_at, resume_templates.updated_at 
+FROM resume_templates 
+WHERE resume_templates.resume_id = $1::UUID]
+[parameters: (UUID('f0c4465a-de73-4442-8a46-79435b3e0e77'),)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-13 20:46:37 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 20:51:11 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 20:51:11 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 20:51:11 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 20:51:15 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 20:51:59 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-13 20:52:00 | ERROR    | app.middleware.exceptions:global_exception_handler:6 - Global exception caught: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedTableError'>: relation "uploaded_resumes" does not exist
+[SQL: INSERT INTO uploaded_resumes (id, user_id, original_filename, stored_filename, file_type, file_size, storage_url, upload_status, updated_at) VALUES ($1::UUID, $2::UUID, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::BIGINT, $7::VARCHAR, $8::VARCHAR, $9::TIMESTAMP WITH TIME ZONE) RETURNING uploaded_resumes.created_at]
+[parameters: (UUID('840e1842-c45b-45b3-8116-8cc072305074'), UUID('00000000-0000-0000-0000-000000000000'), 'Md_Sameer_Ahmad_Resume.pdf', '28f99677-a6da-416a-b667-9c6e2a46d9de.pdf', 'application/pdf', 57461, None, 'pending', None)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-13 20:53:14 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 21:01:24 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-13 21:01:26 | ERROR    | app.middleware.exceptions:global_exception_handler:6 - Global exception caught: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: insert or update on table "uploaded_resumes" violates foreign key constraint "uploaded_resumes_user_id_fkey"
+DETAIL:  Key (user_id)=(00000000-0000-0000-0000-000000000000) is not present in table "users".
+[SQL: INSERT INTO uploaded_resumes (id, user_id, original_filename, stored_filename, file_type, file_size, storage_url, upload_status, updated_at) VALUES ($1::UUID, $2::UUID, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::BIGINT, $7::VARCHAR, $8::VARCHAR, $9::TIMESTAMP WITH TIME ZONE) RETURNING uploaded_resumes.created_at]
+[parameters: (UUID('79e018c4-eca3-44e6-8618-c15f65a7894b'), UUID('00000000-0000-0000-0000-000000000000'), 'Md_Sameer_Ahmad_Resume.pdf', '5393027a-91e4-4f93-aba7-d8e1b6ca4888.pdf', 'application/pdf', 57461, None, 'pending', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-06-13 21:01:57 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 21:01:57 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 21:01:57 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 21:02:01 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 21:02:16 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-13 21:02:16 | ERROR    | app.middleware.exceptions:global_exception_handler:6 - Global exception caught: (sqlalchemy.dialects.postgresql.asyncpg.IntegrityError) <class 'asyncpg.exceptions.ForeignKeyViolationError'>: insert or update on table "uploaded_resumes" violates foreign key constraint "uploaded_resumes_user_id_fkey"
+DETAIL:  Key (user_id)=(00000000-0000-0000-0000-000000000000) is not present in table "users".
+[SQL: INSERT INTO uploaded_resumes (id, user_id, original_filename, stored_filename, file_type, file_size, storage_url, upload_status, updated_at) VALUES ($1::UUID, $2::UUID, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::BIGINT, $7::VARCHAR, $8::VARCHAR, $9::TIMESTAMP WITH TIME ZONE) RETURNING uploaded_resumes.created_at]
+[parameters: (UUID('4bcd4a81-9815-463f-96d5-ca989b9a1b38'), UUID('00000000-0000-0000-0000-000000000000'), 'Md_Sameer_Ahmad_Resume.pdf', 'cce349c0-2f12-4d2d-9476-d317bb255ded.pdf', 'application/pdf', 57461, None, 'pending', None)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2026-06-13 21:04:53 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 21:04:53 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-13 21:05:13 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 21:05:13 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 21:05:13 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 21:05:17 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 21:05:22 | INFO     | app.api.v1.resume.upload:ensure_mock_user:31 - Created mock user: 00000000-0000-0000-0000-000000000000
+2026-06-13 21:05:22 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: README.md
+2026-06-13 21:05:37 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-13 21:05:37 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-13 21:05:37 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-13 21:05:38 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: test_output.pdf
+2026-06-13 21:05:41 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-13 21:05:42 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume dad2ba5a-70f8-40c9-9e46-d1bcf376478b for user 00000000-0000-0000-0000-000000000000
+2026-06-13 21:06:00 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-13 21:06:02 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 2161aef4-3c66-45ea-8619-7450bee53a06 for user 00000000-0000-0000-0000-000000000000
+2026-06-13 21:06:05 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: 2161aef4-3c66-45ea-8619-7450bee53a06
+2026-06-13 21:06:09 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-13 21:06:09 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_2161aef4-3c66-45ea-8619-7450bee53a06.pdf
+2026-06-13 21:06:10 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-13 21:06:10 | ERROR    | app.api.v1.resume.extract:extract_resume:25 - Extraction error for 2161aef4-3c66-45ea-8619-7450bee53a06: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column resume_templates.template_css does not exist
+[SQL: SELECT resume_templates.id, resume_templates.resume_id, resume_templates.user_id, resume_templates.template_html, resume_templates.template_css, resume_templates.layout_metadata, resume_templates.section_order, resume_templates.template_variables, resume_templates.hyperlinks, resume_templates.created_at, resume_templates.updated_at 
+FROM resume_templates 
+WHERE resume_templates.resume_id = $1::UUID]
+[parameters: (UUID('2161aef4-3c66-45ea-8619-7450bee53a06'),)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-13 21:06:17 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 12:35:00 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 12:35:00 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 12:35:00 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 12:35:05 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 12:36:29 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 12:37:00 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-14 12:37:04 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume ac89205f-64d7-4e60-b284-69ab260aa993 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 12:40:28 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-14 12:40:29 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 3cb9e683-34f4-4c63-98a0-095b4f82a5e8 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 12:40:29 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: 3cb9e683-34f4-4c63-98a0-095b4f82a5e8
+2026-06-14 12:40:33 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 12:40:33 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_3cb9e683-34f4-4c63-98a0-095b4f82a5e8.pdf
+2026-06-14 12:40:34 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 12:40:34 | ERROR    | app.api.v1.resume.extract:extract_resume:25 - Extraction error for 3cb9e683-34f4-4c63-98a0-095b4f82a5e8: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column resume_templates.template_css does not exist
+[SQL: SELECT resume_templates.id, resume_templates.resume_id, resume_templates.user_id, resume_templates.template_html, resume_templates.template_css, resume_templates.layout_metadata, resume_templates.section_order, resume_templates.template_variables, resume_templates.hyperlinks, resume_templates.created_at, resume_templates.updated_at 
+FROM resume_templates 
+WHERE resume_templates.resume_id = $1::UUID]
+[parameters: (UUID('3cb9e683-34f4-4c63-98a0-095b4f82a5e8'),)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-14 12:41:49 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: ac89205f-64d7-4e60-b284-69ab260aa993
+2026-06-14 12:41:52 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 12:41:52 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_ac89205f-64d7-4e60-b284-69ab260aa993.pdf
+2026-06-14 12:41:52 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 12:41:52 | ERROR    | app.api.v1.resume.extract:extract_resume:25 - Extraction error for ac89205f-64d7-4e60-b284-69ab260aa993: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column resume_templates.template_css does not exist
+[SQL: SELECT resume_templates.id, resume_templates.resume_id, resume_templates.user_id, resume_templates.template_html, resume_templates.template_css, resume_templates.layout_metadata, resume_templates.section_order, resume_templates.template_variables, resume_templates.hyperlinks, resume_templates.created_at, resume_templates.updated_at 
+FROM resume_templates 
+WHERE resume_templates.resume_id = $1::UUID]
+[parameters: (UUID('ac89205f-64d7-4e60-b284-69ab260aa993'),)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2026-06-14 12:43:51 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 12:44:08 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 12:44:08 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 12:44:08 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 12:44:11 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 12:46:44 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: ac89205f-64d7-4e60-b284-69ab260aa993
+2026-06-14 12:46:47 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 12:46:47 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_ac89205f-64d7-4e60-b284-69ab260aa993.pdf
+2026-06-14 12:46:48 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 12:46:49 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: ac89205f-64d7-4e60-b284-69ab260aa993
+2026-06-14 12:46:59 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-14 12:47:01 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 681a9185-cb69-4327-83f0-76dfab723098 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 12:47:01 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: 681a9185-cb69-4327-83f0-76dfab723098
+2026-06-14 12:47:04 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 12:47:04 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_681a9185-cb69-4327-83f0-76dfab723098.pdf
+2026-06-14 12:47:04 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 12:47:06 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: 681a9185-cb69-4327-83f0-76dfab723098
+2026-06-14 12:47:06 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: 681a9185-cb69-4327-83f0-76dfab723098
+2026-06-14 12:47:06 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 12:47:36 | INFO     | app.services.master_resume_parser:parse_to_master:72 - Successfully created Master Resume Profile for resume_id: 681a9185-cb69-4327-83f0-76dfab723098
+2026-06-14 12:48:33 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: ac89205f-64d7-4e60-b284-69ab260aa993
+2026-06-14 12:48:34 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 12:48:59 | INFO     | app.services.master_resume_parser:parse_to_master:72 - Successfully created Master Resume Profile for resume_id: ac89205f-64d7-4e60-b284-69ab260aa993
+2026-06-14 12:51:30 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-14 12:51:31 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d for user 00000000-0000-0000-0000-000000000000
+2026-06-14 12:51:31 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 12:51:35 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 12:51:35 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_2fc5a85c-841b-4135-a9bc-d38d31ad626d.pdf
+2026-06-14 12:51:35 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 12:51:36 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 12:51:36 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 12:51:36 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 12:52:01 | INFO     | app.services.master_resume_parser:parse_to_master:72 - Successfully created Master Resume Profile for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 12:52:02 | INFO     | app.services.layout_analyzer:analyze_sections:22 - Analyzing layout sections and hierarchy...
+2026-06-14 12:52:02 | INFO     | app.services.template_builder:build_template:18 - Building reusable HTML template...
+2026-06-14 12:53:24 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-14 12:53:24 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 12:53:34 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: efe9bde5-7abc-4797-9437-1aeeb9bcd282
+2026-06-14 12:56:37 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-14 12:56:37 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 12:56:48 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: 439acc3e-d54f-461a-b4d8-a98162217444
+2026-06-14 13:05:06 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-14 13:05:06 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:05:16 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:05:44 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:05:44 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:05:44 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:05:45 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:06:05 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:06:05 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:06:06 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 8f82e323-723e-490e-bfb9-710a868687f7
+2026-06-14 13:06:11 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:06:11 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:06:11 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 224bfd74-862b-4e52-bad0-f104f97f0c8d
+2026-06-14 13:09:27 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:09:27 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:09:54 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:09:54 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:09:55 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: da729973-a427-4e96-b19e-f8fffe4fee07
+2026-06-14 13:10:01 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:10:02 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:10:02 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:10:02 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:10:26 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:10:26 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:10:26 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 55caea6f-fa6f-4a27-976a-27c4fbc58428
+2026-06-14 13:10:35 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:10:35 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:10:36 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 8eef0c5a-1491-42c2-b5c3-4ce275f62a66
+2026-06-14 13:11:42 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:11:43 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:11:43 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:11:46 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:12:01 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:12:01 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:12:02 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:12:02 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:12:05 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:12:05 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:12:06 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 5ae84119-8247-4155-b6e8-8d9b3378a1e9
+2026-06-14 13:12:11 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:12:11 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:12:12 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 20ca86c6-71cc-4426-bf31-e150daa8387c
+2026-06-14 13:12:24 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:12:24 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:12:25 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: d94c6955-8614-43bb-931d-2cf62a336698
+2026-06-14 13:12:26 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:12:26 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:12:27 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: cf2fdf47-215d-4645-9ff3-2c751d02778b
+2026-06-14 13:14:36 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:14:36 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: 2fc5a85c-841b-4135-a9bc-d38d31ad626d, job_id: a1a68f30-9f8e-4eb9-85ff-89633ec70059
+2026-06-14 13:14:37 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:14:38 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 13:14:55 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:14:55 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:14:56 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: b513f651-e5a4-4a63-a956-19411d98e396
+2026-06-14 13:15:07 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 13:15:07 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 13:15:07 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 4069c5b4-08bb-4a8a-94b0-294dbe1f0fa3
+2026-06-14 13:15:36 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:01:10 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:01:10 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:01:10 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:01:12 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:01:42 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-14 14:01:42 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:01:53 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: bd16f6bd-c596-4b19-b05b-cf051f28fa12
+2026-06-14 14:02:21 | INFO     | app.services.compression.page_optimizer:optimize_layout:26 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:02:21 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:02:21 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:02:22 | INFO     | app.services.compression.page_optimizer:optimize_layout:26 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:02:22 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:02:22 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:03:16 | INFO     | app.services.compression.page_optimizer:optimize_layout:26 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:03:16 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:03:16 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:03:16 | INFO     | app.services.compression.page_optimizer:optimize_layout:26 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:03:16 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:03:16 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:04:39 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:04:48 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:04:48 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:04:48 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:04:50 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:05:02 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:05:07 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:05:07 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:05:07 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:05:09 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:05:49 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:05:49 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:05:49 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:05:49 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:05:49 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:05:49 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:05:52 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:05:52 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:05:52 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:05:52 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:05:52 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:05:52 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:06:59 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Oracle_Resume.pdf
+2026-06-14 14:07:00 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 591e8970-7a68-44f6-81c9-f6a20181abc2 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 14:07:00 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: 591e8970-7a68-44f6-81c9-f6a20181abc2
+2026-06-14 14:07:02 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 14:07:02 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_591e8970-7a68-44f6-81c9-f6a20181abc2.pdf
+2026-06-14 14:07:02 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 14:07:04 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: 591e8970-7a68-44f6-81c9-f6a20181abc2
+2026-06-14 14:07:04 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: 591e8970-7a68-44f6-81c9-f6a20181abc2
+2026-06-14 14:07:04 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:07:29 | INFO     | app.services.master_resume_parser:parse_to_master:72 - Successfully created Master Resume Profile for resume_id: 591e8970-7a68-44f6-81c9-f6a20181abc2
+2026-06-14 14:07:29 | INFO     | app.services.layout_analyzer:analyze_sections:22 - Analyzing layout sections and hierarchy...
+2026-06-14 14:07:29 | INFO     | app.services.template_builder:build_template:18 - Building reusable HTML template...
+2026-06-14 14:08:22 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-14 14:08:22 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:08:33 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: 87b1092a-5937-44fb-8c8d-c7561e611f18
+2026-06-14 14:08:56 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:08:56 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:08:56 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:08:56 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:08:56 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:08:56 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:10:24 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:10:32 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:10:32 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:10:32 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:10:37 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:10:37 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:10:41 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:10:41 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:10:41 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:10:47 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:11:12 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:11:12 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:11:12 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:11:13 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:11:13 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:11:13 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:11:24 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:11:33 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:11:33 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:11:33 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:11:35 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:12:32 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-14 14:12:32 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:12:41 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: 8b4fe8ce-0305-4487-9690-a5d7f0a63db1
+2026-06-14 14:13:23 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:13:23 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:13:23 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:13:24 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:13:24 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:13:24 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:15:21 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:15:27 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:15:27 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:15:27 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:15:29 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:15:29 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:15:33 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:15:33 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:15:33 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:15:35 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:16:51 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:16:56 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:16:56 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:16:56 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:16:59 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:16:59 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:17:03 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:17:03 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:17:03 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:17:06 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:17:09 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:17:13 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:17:13 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:17:13 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:17:15 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:17:15 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:17:19 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:17:19 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:17:19 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:17:24 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:17:43 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:17:43 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:17:43 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:17:49 | INFO     | app.services.compression.page_optimizer:optimize_layout:37 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:17:49 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:17:49 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:19:54 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:19:58 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:19:58 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:19:58 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:20:00 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:20:02 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:20:06 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:20:06 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:20:06 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:20:10 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:20:10 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:20:14 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:20:14 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:20:14 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:20:20 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:20:21 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:20:25 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:20:25 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:20:25 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:20:32 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:20:33 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:20:37 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:20:37 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:20:37 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:20:43 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:20:57 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1170.2pt). Starting compression pipeline...
+2026-06-14 14:20:57 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume 2fc5a85c-841b-4135-a9bc-d38d31ad626d
+2026-06-14 14:20:57 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:21:52 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_SymphonyAI_Resume.pdf
+2026-06-14 14:21:53 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume cd71d44c-3357-4fe0-bb15-8b2b0b31fb80 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 14:21:53 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: cd71d44c-3357-4fe0-bb15-8b2b0b31fb80
+2026-06-14 14:21:55 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 14:21:55 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_cd71d44c-3357-4fe0-bb15-8b2b0b31fb80.pdf
+2026-06-14 14:21:55 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 14:21:57 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: cd71d44c-3357-4fe0-bb15-8b2b0b31fb80
+2026-06-14 14:21:57 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: cd71d44c-3357-4fe0-bb15-8b2b0b31fb80
+2026-06-14 14:21:58 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:21:59 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 58.980518963s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2026-06-14 14:22:03 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:22:03 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 54.390257676s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2026-06-14 14:22:07 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:22:08 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 49.551206852s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2026-06-14 14:22:08 | ERROR    | app.api.v1.resume.parse:parse_resume_to_master:25 - Parsing error for cd71d44c-3357-4fe0-bb15-8b2b0b31fb80: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 49.551206852s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2026-06-14 14:24:08 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:24:23 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:24:23 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:24:23 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:24:25 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:24:51 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_EY_Resume.pdf
+2026-06-14 14:24:52 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume ddfb0882-d974-4e2b-adc8-671b4e173b7b for user 00000000-0000-0000-0000-000000000000
+2026-06-14 14:24:52 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: ddfb0882-d974-4e2b-adc8-671b4e173b7b
+2026-06-14 14:24:54 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 14:24:54 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_ddfb0882-d974-4e2b-adc8-671b4e173b7b.pdf
+2026-06-14 14:24:54 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 14:24:56 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: ddfb0882-d974-4e2b-adc8-671b4e173b7b
+2026-06-14 14:24:57 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: ddfb0882-d974-4e2b-adc8-671b4e173b7b
+2026-06-14 14:24:57 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:24:58 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 59.614875451s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2026-06-14 14:25:02 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:25:03 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 54.949209974s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 54
+}
+]
+2026-06-14 14:25:07 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:25:08 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.16610568s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 50
+}
+]
+2026-06-14 14:25:08 | ERROR    | app.api.v1.resume.parse:parse_resume_to_master:25 - Parsing error for ddfb0882-d974-4e2b-adc8-671b4e173b7b: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.16610568s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 50
+}
+]
+2026-06-14 14:26:08 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:26:58 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:26:58 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:26:58 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:27:00 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:27:06 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_EY_Resume.pdf
+2026-06-14 14:27:08 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume f368f03d-34a7-4a99-bfce-4d9f0ad2b752 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 14:27:08 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: f368f03d-34a7-4a99-bfce-4d9f0ad2b752
+2026-06-14 14:27:10 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 14:27:10 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_f368f03d-34a7-4a99-bfce-4d9f0ad2b752.pdf
+2026-06-14 14:27:10 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 14:27:12 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: f368f03d-34a7-4a99-bfce-4d9f0ad2b752
+2026-06-14 14:27:12 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: f368f03d-34a7-4a99-bfce-4d9f0ad2b752
+2026-06-14 14:27:12 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:27:36 | INFO     | app.services.master_resume_parser:parse_to_master:72 - Successfully created Master Resume Profile for resume_id: f368f03d-34a7-4a99-bfce-4d9f0ad2b752
+2026-06-14 14:27:36 | INFO     | app.services.layout_analyzer:analyze_sections:22 - Analyzing layout sections and hierarchy...
+2026-06-14 14:27:36 | INFO     | app.services.template_builder:build_template:18 - Building reusable HTML template...
+2026-06-14 14:27:55 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-14 14:27:55 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:28:07 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: 069b51d3-2ba3-4342-a4aa-2ad716ae5a0c
+2026-06-14 14:28:42 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: f368f03d-34a7-4a99-bfce-4d9f0ad2b752, job_id: 069b51d3-2ba3-4342-a4aa-2ad716ae5a0c
+2026-06-14 14:28:42 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: f368f03d-34a7-4a99-bfce-4d9f0ad2b752, job_id: 069b51d3-2ba3-4342-a4aa-2ad716ae5a0c
+2026-06-14 14:28:43 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:28:43 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:29:03 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 14:29:03 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 14:29:04 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: f45e7fe2-9490-4958-9a59-da27d4466ac0
+2026-06-14 14:29:09 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 14:29:09 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 14:29:09 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: f215ba62-b260-4c34-a64f-ba2761533f50
+2026-06-14 14:29:25 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1279.56pt). Starting compression pipeline...
+2026-06-14 14:29:25 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume f368f03d-34a7-4a99-bfce-4d9f0ad2b752
+2026-06-14 14:29:25 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:29:25 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1279.56pt). Starting compression pipeline...
+2026-06-14 14:29:25 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume f368f03d-34a7-4a99-bfce-4d9f0ad2b752
+2026-06-14 14:29:25 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 'contact' is undefined
+2026-06-14 14:36:00 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:36:45 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:36:45 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:36:45 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:36:47 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:36:48 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:36:53 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:36:53 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:36:53 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:36:55 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:36:55 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:37:02 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:37:02 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:37:02 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:37:04 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:37:04 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:37:10 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:37:10 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:37:10 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:37:12 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:37:12 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:37:17 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:37:17 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:37:17 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:37:19 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:37:53 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:38:01 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:38:01 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:38:01 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:38:05 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:40:23 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: f368f03d-34a7-4a99-bfce-4d9f0ad2b752, job_id: 069b51d3-2ba3-4342-a4aa-2ad716ae5a0c
+2026-06-14 14:40:23 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: f368f03d-34a7-4a99-bfce-4d9f0ad2b752, job_id: 069b51d3-2ba3-4342-a4aa-2ad716ae5a0c
+2026-06-14 14:40:24 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:40:25 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:40:42 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 14:40:42 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 14:40:42 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 8531122a-9450-4e3c-9930-034452dd07aa
+2026-06-14 14:40:45 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 14:40:45 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 14:40:46 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 3747079f-2d22-4a09-85c0-b02f669c5938
+2026-06-14 14:41:06 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1215.6pt). Starting compression pipeline...
+2026-06-14 14:41:06 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume f368f03d-34a7-4a99-bfce-4d9f0ad2b752
+2026-06-14 14:41:06 | INFO     | app.services.rendering.pdf_generator:generate_pdf:26 - Detected SelectorEventLoop on Windows. Offloading PDF generation to a ProactorEventLoop thread.
+2026-06-14 14:41:06 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1215.6pt). Starting compression pipeline...
+2026-06-14 14:41:06 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume f368f03d-34a7-4a99-bfce-4d9f0ad2b752
+2026-06-14 14:41:06 | INFO     | app.services.rendering.pdf_generator:generate_pdf:26 - Detected SelectorEventLoop on Windows. Offloading PDF generation to a ProactorEventLoop thread.
+2026-06-14 14:41:13 | INFO     | app.services.rendering.pdf_generator:_generate_pdf_async:78 - PDF generated successfully at: static/resumes\3747079f-2d22-4a09-85c0-b02f669c5938.pdf
+2026-06-14 14:41:13 | INFO     | app.services.rendering.pdf_generator:_generate_pdf_async:78 - PDF generated successfully at: static/resumes\3747079f-2d22-4a09-85c0-b02f669c5938.pdf
+2026-06-14 14:53:54 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:54:06 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:54:06 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:54:06 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:54:08 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:54:32 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 14:56:13 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 14:56:13 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 14:56:13 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 14:56:15 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 14:56:20 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Oracle_Resume.pdf
+2026-06-14 14:56:21 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 516baefc-e2e2-4576-8f66-d27f34e5c4c6 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 14:56:21 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: 516baefc-e2e2-4576-8f66-d27f34e5c4c6
+2026-06-14 14:56:23 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 14:56:23 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_516baefc-e2e2-4576-8f66-d27f34e5c4c6.pdf
+2026-06-14 14:56:23 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 14:56:25 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: 516baefc-e2e2-4576-8f66-d27f34e5c4c6
+2026-06-14 14:56:25 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: 516baefc-e2e2-4576-8f66-d27f34e5c4c6
+2026-06-14 14:56:25 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 14:56:55 | INFO     | app.services.master_resume_parser:parse_to_master:72 - Successfully created Master Resume Profile for resume_id: 516baefc-e2e2-4576-8f66-d27f34e5c4c6
+2026-06-14 14:56:55 | ERROR    | app.api.v1.template.template:generate_template:96 - Template generation error: Resume file not found: temp_516baefc-e2e2-4576-8f66-d27f34e5c4c6.pdf
+2026-06-14 15:00:05 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-14 15:00:07 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume e11f7ee4-cee2-46e3-8644-94b86ae51a92 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 15:00:07 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: e11f7ee4-cee2-46e3-8644-94b86ae51a92
+2026-06-14 15:00:10 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 15:00:10 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_e11f7ee4-cee2-46e3-8644-94b86ae51a92.pdf
+2026-06-14 15:00:10 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 15:00:11 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: e11f7ee4-cee2-46e3-8644-94b86ae51a92
+2026-06-14 15:00:11 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: e11f7ee4-cee2-46e3-8644-94b86ae51a92
+2026-06-14 15:00:11 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:00:37 | ERROR    | app.services.json_validator:clean_json_response:52 - Failed to decode JSON from Gemini: Expecting property name enclosed in double quotes: line 74 column 5 (char 2587)
+2026-06-14 15:00:37 | ERROR    | app.api.v1.resume.parse:parse_resume_to_master:25 - Parsing error for e11f7ee4-cee2-46e3-8644-94b86ae51a92: Invalid JSON response from AI
+2026-06-14 15:02:56 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:03:15 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:03:15 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:03:15 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:03:17 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:03:48 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:04:11 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:04:11 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:04:11 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:04:15 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:04:38 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-14 15:04:41 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 68397339-fb21-44f3-95d1-78d626becf71 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 15:04:41 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: 68397339-fb21-44f3-95d1-78d626becf71
+2026-06-14 15:04:46 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 15:04:46 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_68397339-fb21-44f3-95d1-78d626becf71.pdf
+2026-06-14 15:04:46 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 15:04:49 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: 68397339-fb21-44f3-95d1-78d626becf71
+2026-06-14 15:04:49 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: 68397339-fb21-44f3-95d1-78d626becf71
+2026-06-14 15:04:50 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:05:23 | ERROR    | app.services.json_validator:clean_json_response:73 - Failed to decode JSON from Gemini: Expecting ',' delimiter: line 170 column 6 (char 6504)
+2026-06-14 15:05:23 | WARNING  | app.services.master_resume_parser:parse_to_master:46 - Retrying Master Resume parsing after malformed AI JSON
+2026-06-14 15:05:23 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:05:34 | INFO     | app.services.master_resume_parser:parse_to_master:84 - Successfully created Master Resume Profile for resume_id: 68397339-fb21-44f3-95d1-78d626becf71
+2026-06-14 15:12:52 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:13:24 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:13:24 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:13:24 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:13:28 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:13:46 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-14 15:14:16 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume 88728466-5078-4562-a7e0-63d71c4e4aea for user 00000000-0000-0000-0000-000000000000
+2026-06-14 15:17:45 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-14 15:17:47 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume a8563cdb-ff7b-4989-80df-5c4f20928c10 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 15:17:47 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: a8563cdb-ff7b-4989-80df-5c4f20928c10
+2026-06-14 15:17:51 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 15:17:51 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_a8563cdb-ff7b-4989-80df-5c4f20928c10.pdf
+2026-06-14 15:17:52 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 15:17:54 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: a8563cdb-ff7b-4989-80df-5c4f20928c10
+2026-06-14 15:17:54 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: a8563cdb-ff7b-4989-80df-5c4f20928c10
+2026-06-14 15:17:54 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:18:17 | INFO     | app.services.master_resume_parser:parse_to_master:84 - Successfully created Master Resume Profile for resume_id: a8563cdb-ff7b-4989-80df-5c4f20928c10
+2026-06-14 15:18:17 | ERROR    | app.api.v1.template.template:generate_template:96 - Template generation error: Resume file not found: temp_a8563cdb-ff7b-4989-80df-5c4f20928c10.pdf
+2026-06-14 15:20:18 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:20:30 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:20:30 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:20:30 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:20:35 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:21:32 | INFO     | app.services.resume_upload_service:upload_resume:58 - Starting upload for user 00000000-0000-0000-0000-000000000000: Md_Sameer_Ahmad_Resume.pdf
+2026-06-14 15:21:36 | INFO     | app.services.resume_upload_service:upload_resume:95 - Successfully uploaded resume c9cebb81-f59a-411d-b2a1-bba23fffc786 for user 00000000-0000-0000-0000-000000000000
+2026-06-14 15:21:36 | INFO     | app.services.resume_extraction_service:extract_resume:47 - Starting extraction for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786
+2026-06-14 15:21:42 | INFO     | app.services.pdf_extractor:extract:52 - Successfully extracted PDF: 1 pages
+2026-06-14 15:21:42 | INFO     | app.services.layout_extractor:extract_layout:17 - Extracting layout from: temp_c9cebb81-f59a-411d-b2a1-bba23fffc786.pdf
+2026-06-14 15:21:43 | INFO     | app.services.rendering.master_template_service:create_template:26 - Creating master template from layout metadata...
+2026-06-14 15:21:46 | INFO     | app.services.resume_extraction_service:extract_resume:152 - Successfully completed extraction for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786
+2026-06-14 15:21:46 | INFO     | app.services.master_resume_parser:parse_to_master:25 - Starting Master Resume parsing for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786
+2026-06-14 15:21:46 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:22:10 | INFO     | app.services.master_resume_parser:parse_to_master:84 - Successfully created Master Resume Profile for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786
+2026-06-14 15:22:44 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-14 15:22:44 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:22:55 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: b00e1b49-5626-4545-8fb6-682e0a38ab48
+2026-06-14 15:23:17 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786, job_id: b00e1b49-5626-4545-8fb6-682e0a38ab48
+2026-06-14 15:23:17 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786, job_id: b00e1b49-5626-4545-8fb6-682e0a38ab48
+2026-06-14 15:23:18 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:23:18 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:23:44 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 15:23:44 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 15:23:45 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: 58f9e5e7-3768-4b64-a117-660a26b1610d
+2026-06-14 15:23:45 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 15:23:45 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 15:23:46 | INFO     | app.services.resume_optimizer:optimize_resume:128 - Successfully generated and stored optimized resume: a75e3993-3fef-44b5-8840-f8838f0a44e7
+2026-06-14 15:23:59 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1140.56pt). Starting compression pipeline...
+2026-06-14 15:23:59 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume c9cebb81-f59a-411d-b2a1-bba23fffc786
+2026-06-14 15:23:59 | INFO     | app.services.rendering.pdf_generator:generate_pdf:26 - Detected SelectorEventLoop on Windows. Offloading PDF generation to a ProactorEventLoop thread.
+2026-06-14 15:24:00 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1140.56pt). Starting compression pipeline...
+2026-06-14 15:24:00 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume c9cebb81-f59a-411d-b2a1-bba23fffc786
+2026-06-14 15:24:00 | INFO     | app.services.rendering.pdf_generator:generate_pdf:26 - Detected SelectorEventLoop on Windows. Offloading PDF generation to a ProactorEventLoop thread.
+2026-06-14 15:24:08 | ERROR    | app.services.rendering.pdf_generator:_generate_pdf_async:98 - Error in _generate_pdf_async: Page.pdf: Failed to parse parameter value: 816pt
+2026-06-14 15:24:08 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 500: Failed to generate PDF
+2026-06-14 15:24:08 | ERROR    | app.services.rendering.pdf_generator:_generate_pdf_async:98 - Error in _generate_pdf_async: Page.pdf: Failed to parse parameter value: 816pt
+2026-06-14 15:24:08 | ERROR    | app.api.v1.pdf.pdf:generate_pdf:100 - PDF Generation error: 500: Failed to generate PDF
+2026-06-14 15:25:24 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:25:42 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:25:42 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:25:42 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:25:45 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:25:45 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1140.56pt). Starting compression pipeline...
+2026-06-14 15:25:45 | INFO     | app.api.v1.pdf.pdf:generate_pdf:50 - Using Master Template for resume c9cebb81-f59a-411d-b2a1-bba23fffc786
+2026-06-14 15:25:45 | INFO     | app.services.rendering.pdf_generator:generate_pdf:26 - Detected SelectorEventLoop on Windows. Offloading PDF generation to a ProactorEventLoop thread.
+2026-06-14 15:25:49 | INFO     | app.services.rendering.pdf_generator:_generate_pdf_async:97 - PDF generated successfully at: static/resumes\a75e3993-3fef-44b5-8840-f8838f0a44e7.pdf
+2026-06-14 15:30:02 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:30:12 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:30:12 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:30:12 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:30:14 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:30:22 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:30:30 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:30:30 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:30:30 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:30:32 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:31:17 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:31:27 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:31:27 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:31:27 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:31:30 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:31:51 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:32:01 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:32:01 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:32:01 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:32:04 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:32:21 | INFO     | main:shutdown_event:60 - Shutting down ATS Resume Agent...
+2026-06-14 15:32:31 | INFO     | main:startup_event:51 - Current event loop: _WindowsSelectorEventLoop
+2026-06-14 15:32:31 | WARNING  | main:startup_event:53 - Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.
+2026-06-14 15:32:31 | INFO     | main:startup_event:55 - Starting up ATS Resume Agent...
+2026-06-14 15:32:33 | INFO     | app.database.database:check_db_connection:60 - Database connection successful!
+2026-06-14 15:33:31 | INFO     | app.services.jd_analyzer:analyze_jd:29 - Starting Enhanced JD Analysis...
+2026-06-14 15:33:31 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:33:41 | INFO     | app.services.jd_analyzer:analyze_jd:80 - Successfully analyzed and stored JD: f817a9d1-eea4-46ef-8648-b7e452151818
+2026-06-14 15:33:51 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786, job_id: f817a9d1-eea4-46ef-8648-b7e452151818
+2026-06-14 15:33:51 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786, job_id: f817a9d1-eea4-46ef-8648-b7e452151818
+2026-06-14 15:33:51 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:33:51 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:34:08 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 15:34:08 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 15:34:09 | INFO     | app.services.resume_optimizer:optimize_resume:129 - Successfully generated and stored optimized resume: 5bbc2386-0e67-4553-9145-f034a035d9e6
+2026-06-14 15:34:18 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 15:34:18 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 15:34:18 | INFO     | app.services.resume_optimizer:optimize_resume:129 - Successfully generated and stored optimized resume: 18937b4d-e56a-4654-9514-c6f22af24611
+2026-06-14 15:34:28 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1168.64pt). Starting compression pipeline...
+2026-06-14 15:34:28 | INFO     | app.api.v1.pdf.pdf:generate_pdf:51 - Using Master Template for resume c9cebb81-f59a-411d-b2a1-bba23fffc786
+2026-06-14 15:34:28 | INFO     | app.services.rendering.master_template_service:create_template:29 - Creating master template from layout metadata...
+2026-06-14 15:34:28 | INFO     | app.services.rendering.pdf_generator:generate_pdf:26 - Detected SelectorEventLoop on Windows. Offloading PDF generation to a ProactorEventLoop thread.
+2026-06-14 15:34:31 | INFO     | app.services.rendering.pdf_generator:_generate_pdf_async:97 - PDF generated successfully at: static/resumes\18937b4d-e56a-4654-9514-c6f22af24611.pdf
+2026-06-14 15:35:15 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786, job_id: f817a9d1-eea4-46ef-8648-b7e452151818
+2026-06-14 15:35:15 | INFO     | app.services.resume_optimizer:optimize_resume:33 - Starting resume optimization for resume_id: c9cebb81-f59a-411d-b2a1-bba23fffc786, job_id: f817a9d1-eea4-46ef-8648-b7e452151818
+2026-06-14 15:35:16 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:35:16 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:35:17 | ERROR    | app.services.gemini_service:generate_content:49 - Gemini API Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 40.979443792s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2026-06-14 15:35:21 | INFO     | app.services.gemini_service:generate_content:31 - Sending request to Gemini AI using model: gemini-2.5-flash...
+2026-06-14 15:35:37 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 15:35:37 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 15:35:38 | INFO     | app.services.resume_optimizer:optimize_resume:129 - Successfully generated and stored optimized resume: 51b27fda-df2e-425a-887c-57a3054b53b1
+2026-06-14 15:35:41 | INFO     | app.services.link_preservation_service:preserve_links:25 - Preserved links: ['linkedin', 'github', 'portfolio', 'leetcode', 'gfg', 'website']
+2026-06-14 15:35:41 | INFO     | app.services.link_preservation_service:preserve_contact:43 - Preserved contact info for: MD SAMEER AHMAD
+2026-06-14 15:35:41 | INFO     | app.services.resume_optimizer:optimize_resume:129 - Successfully generated and stored optimized resume: eb6bda84-940c-4ccc-aa59-20412628c5d6
+2026-06-14 15:36:00 | INFO     | app.services.compression.page_optimizer:optimize_layout:47 - Overflow detected (1090.6399999999999pt). Starting compression pipeline...
+2026-06-14 15:36:00 | INFO     | app.api.v1.pdf.pdf:generate_pdf:51 - Using Master Template for resume c9cebb81-f59a-411d-b2a1-bba23fffc786
+2026-06-14 15:36:00 | INFO     | app.services.rendering.master_template_service:create_template:29 - Creating master template from layout metadata...
+2026-06-14 15:36:00 | INFO     | app.services.rendering.pdf_generator:generate_pdf:26 - Detected SelectorEventLoop on Windows. Offloading PDF generation to a ProactorEventLoop thread.
+2026-06-14 15:36:03 | INFO     | app.services.rendering.pdf_generator:_generate_pdf_async:97 - PDF generated successfully at: static/resumes\eb6bda84-940c-4ccc-aa59-20412628c5d6.pdf

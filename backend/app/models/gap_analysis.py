@@ -24,6 +24,21 @@ class GapAnalysis(Base):
     coverage_score = Column(Float, default=0.0)
     ats_score = Column(Float, default=0.0)
     
+    # Detailed score breakdown
+    skill_score = Column(Float, default=0.0)
+    keyword_score = Column(Float, default=0.0)
+    project_score = Column(Float, default=0.0)
+    experience_score = Column(Float, default=0.0)
+    education_score = Column(Float, default=0.0)
+    certification_score = Column(Float, default=0.0)
+    
+    # Rankings and metadata
+    project_rankings = Column(JSONB, nullable=True)
+    
+    # Semantic match details
+    semantic_matches = Column(JSONB, nullable=True)
+    matching_confidence = Column(Float, default=0.0)
+    
     recommendations = Column(JSONB, nullable=True)
     
     created_at = Column(DateTime(timezone=True), server_default=func.now(), nullable=False)

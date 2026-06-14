@@ -9,3 +9,4 @@ from .resume_extraction import ResumeExtraction
 from .master_resume_profile import MasterResumeProfile
 from .resume_template import ResumeTemplate
 from .gap_analysis import GapAnalysis
+from .optimized_resume import OptimizedResume

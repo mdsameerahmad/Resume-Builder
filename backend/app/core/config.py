@@ -1,4 +1,5 @@
 from typing import List, Optional
+from app.core import windows_compat # Ensure Windows loop policy is set
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from pydantic import AnyHttpUrl, field_validator
 

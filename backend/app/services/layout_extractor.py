@@ -23,11 +23,10 @@ class LayoutExtractor:
                 "height": 0,
                 "page_count": len(doc)
             },
-            "fonts": set(),
-            "font_sizes": set(),
-            "colors": set(),
+            "styles": {},
             "margins": {"top": 0, "bottom": 0, "left": 0, "right": 0},
-            "elements": []
+            "elements": [],
+            "sections": []
         }
 
         for page_num in range(len(doc)):
@@ -36,32 +35,35 @@ class LayoutExtractor:
             metadata["page"]["width"] = rect.width
             metadata["page"]["height"] = rect.height
 
-            # Extract blocks of text with formatting
+            # Extract blocks with detailed formatting
             blocks = page.get_text("dict")["blocks"]
             for b in blocks:
                 if b["type"] == 0:  # text block
+                    block_text = ""
+                    block_spans = []
                     for line in b["lines"]:
                         for span in line["spans"]:
-                            metadata["fonts"].add(span["font"])
-                            metadata["font_sizes"].add(round(span["size"], 2))
-                            # Convert color to hex
-                            color = span["color"]
-                            metadata["colors"].add(f"#{color:06x}")
+                            style_key = f"{span['font']}_{span['size']}_{span['color']}"
+                            if style_key not in metadata["styles"]:
+                                metadata["styles"][style_key] = {
+                                    "font": span["font"],
+                                    "size": span["size"],
+                                    "color": f"#{span['color']:06x}",
+                                    "flags": span["flags"]
+                                }
                             
-                            metadata["elements"].append({
+                            block_text += span["text"] + " "
+                            block_spans.append({
                                 "text": span["text"],
                                 "bbox": span["bbox"],
-                                "font": span["font"],
-                                "size": span["size"],
-                                "color": f"#{color:06x}",
-                                "flags": span["flags"]
+                                "style": style_key
                             })
+                    
+                    metadata["elements"].append({
+                        "text": block_text.strip(),
+                        "bbox": b["bbox"],
+                        "spans": block_spans
+                    })
 
         doc.close()
-        
-        # Convert sets to lists for JSON serialization
-        metadata["fonts"] = list(metadata["fonts"])
-        metadata["font_sizes"] = sorted(list(metadata["font_sizes"]))
-        metadata["colors"] = list(metadata["colors"])
-        
         return metadata

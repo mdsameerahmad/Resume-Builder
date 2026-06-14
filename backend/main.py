@@ -1,3 +1,7 @@
+import sys
+import asyncio
+from app.core import windows_compat  # Must be first to set loop policy on Windows
+
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
@@ -6,6 +10,9 @@ from app.middleware.exceptions import global_exception_handler
 from app.api.v1 import api_router
 from app.database.database import startup_db_check
 
+from fastapi.staticfiles import StaticFiles
+import os
+
 def create_application() -> FastAPI:
     application = FastAPI(
         title=settings.PROJECT_NAME,
@@ -13,11 +20,15 @@ def create_application() -> FastAPI:
         openapi_url=f"{settings.API_V1_STR}/openapi.json",
     )
 
+    # Serve static files for resumes
+    os.makedirs("static/resumes", exist_ok=True)
+    application.mount("/static", StaticFiles(directory="static"), name="static")
+
     # Set CORS middleware
     if settings.BACKEND_CORS_ORIGINS:
         application.add_middleware(
             CORSMiddleware,
-            allow_origins=[str(origin) for origin in settings.BACKEND_CORS_ORIGINS],
+            allow_origins=[str(origin).rstrip("/") for origin in settings.BACKEND_CORS_ORIGINS],
             allow_credentials=True,
             allow_methods=["*"],
             allow_headers=["*"],
@@ -35,6 +46,12 @@ app = create_application()
 
 @app.on_event("startup")
 async def startup_event():
+    import asyncio
+    loop = asyncio.get_running_loop()
+    logger.info(f"Current event loop: {type(loop).__name__}")
+    if sys.platform == 'win32' and not isinstance(loop, asyncio.ProactorEventLoop):
+        logger.warning("Not using ProactorEventLoop on Windows! This may cause NotImplementedError with Playwright.")
+    
     logger.info("Starting up ATS Resume Agent...")
     await startup_db_check()
 
